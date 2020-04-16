@@ -1,0 +1,8 @@
+*.directory
+*.mat
+*.npz
+*.npy
+*.csv
+*.bin
+*.pdf
+.ipynb_checkpoints/
